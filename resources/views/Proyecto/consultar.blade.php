@@ -1,0 +1,1 @@
+<?= $Consulta[0]->Salida ?>
